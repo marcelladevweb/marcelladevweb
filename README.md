@@ -1,6 +1,6 @@
 # Hello World, I'm Marcella 🙂
 
-"Coding dreams and turning ideas into reality. Welcome to my digital space where creativity meets lines of code."_ 🚀
+Coding dreams and turning ideas into reality. Welcome to my digital space where creativity meets lines of code._ 🚀
 
 ![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelladevweb&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
