@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World, I'm Marcella 🙂
 
-<!--
-**marcelladevweb/marcelladevweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+"Coding dreams and turning ideas into reality. Welcome to my digital space where creativity meets lines of code."_ 🚀
 
-Here are some ideas to get you started:
+![Seu Nome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelladevweb&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages ​​and Tools
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript Icon" width="120"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python Icon" width="120"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C Icon" width="120"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML Icon" width="120"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS Icon" width="120">
+
+## Main Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelladevweb&layout=compact&theme=radical)
+
+Sinta-se à vontade para explorar os projetos e fornecer feedback. Espero que encontre algo interessante aqui! 😊
